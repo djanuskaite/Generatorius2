@@ -1,0 +1,21 @@
+html, body{
+    height: 100%;
+}
+
+body{
+    background-image: url("img/img2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    padding: 70px 0;
+    text-align: center;
+}
+
+.marginai {
+    margin-left: 11em;
+    margin-top: 1em;
+}
+
+#number {
+    font-size: 50px;
+}
